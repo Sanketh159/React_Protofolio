@@ -1,0 +1,62 @@
+    #Certificates {
+    display: flex;
+    width: 60%;
+    padding: 30px;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    gap: 50px;
+  }
+  
+  .Certificate {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .image {
+    position: relative;
+  }
+  
+  .image img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .veiwButton {
+    top: 0;
+    left: 0;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all  0.5s ease-in;
+    background-color: rgba(0, 0, 0, 0.62);
+  }
+
+  .viewbtn{
+    display: none;
+    background-color: rgb(108, 51, 160);
+    position: relative;
+    border-radius: 10px;
+    color: white;
+    width: 67px;
+    height: 33px;
+    cursor: pointer;
+  }
+ .viewbtn a{
+  color: white;
+ }
+
+  .Certificate:hover .veiwButton{
+    height: 95%;
+    /* border-radius: 0; */
+  }
+  .Certificate:hover .viewbtn{
+    display: inline-block;
+  }
+  
