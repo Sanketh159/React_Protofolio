@@ -5,21 +5,21 @@ function ProjectSection() {
   const projects = [
     {
       title: "Food Clone",
-      image: "../src/assets/screenshot (36).png",
+      image: "../src/assets/Images/foodman.png",
       desc: "I Built a static food clone page using HTML, CSS and java script. This clone contains  Navbar,different section and it is Responsive Page. This page suitable for both pc and moblie ",
       link: "https://foodmanapp.netlify.app",
       glink:'https://github.com/Sanketh159/food-page.git'
     },
     {
       title: "Calculator",
-      image: "../src/assets/screenshot (48).png",
+      image: "../src/assets/Images/calculator.png",
       desc: "I created Simple calculator which perfoms Arithmatic operation.",
       link: "https://harmonious-praline-557791.netlify.app/",
       glink:'https://github.com/Sanketh159/codsoft.calcualator.git'
     },
     {
       title: "Spotify Clone",
-      image: "../src/assets/screenshot (38).png",
+      image: "../src/assets/Images/spotify.png",
       desc: "I created spotify's Home page using HTML and CSS ",
       link: "https://sparkly-alfajores-188b55.netlify.app/",
       glink: "https://github.com/Sanketh159/spotify-clone.git"
