@@ -5,17 +5,17 @@ function CertificateSection() {
   const certificates = [
     {
       title: "React and JS",
-      image: "../src/assets/react and js.jpg",
+      image: "../src/assets/certificate/reactandjs.jpg",
       link: "https://drive.google.com/file/d/1iKZIdlXAiYXLZ5MeZnPz1oo1mOYn5QHQ/view?usp=drive_link",
     },
     {
       title: "AWS for React",
-      image: "../src/assets/aws.jpg",
+      image: "../src/assets/certificate/aws.jpg",
       link: "https://drive.google.com/file/d/1ovx6r7Cglb36IZcVngKK2ELgyqd0DORB/view?usp=drive_link",
     },
     {
       title: "Problem Solving (Basic)",
-      image: "../src/assets/certificate/2024-08-21-20-00-09.png",
+      image: "../src/assets/certificate/problem.png",
       link: "https://drive.google.com/file/d/17uiWtVtvdhF7nraQRnv81Krgyl044lrE/view?usp=drive_link",
     },
     {
