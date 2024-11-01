@@ -29,7 +29,7 @@ function Header() {
         </div>
       </div>
       <div id="img">
-        <img src="../src/assets/IMG_1091.JPG" alt="Sanketh Nayak"></img>
+        <img src="../src/assets/sanketh.JPG" alt="Sanketh Nayak"></img>
       </div>
       <div id="Project" style={{ position: "absolute", bottom: "70px" }}></div>
     </header>
