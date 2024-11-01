@@ -1,5 +1,5 @@
 import '../public/Resume.css';
-import Resume1 from '../Assets/Resume/Sanketh-S-Nayak-Resume.pdf';
+import Resume1 from '../src/assets/Resume/Sanketh-S-Nayak-Resume.pdf';
 
 function Resume(){
     return(
