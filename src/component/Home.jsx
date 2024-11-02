@@ -1,5 +1,6 @@
 import React from 'react';
 import '../public/home.css'; 
+import image from "../src/assets/Images/sanketh.jpg"
 
 function Header() {
   return (
@@ -29,7 +30,7 @@ function Header() {
         </div>
       </div>
       <div id="img">
-        <img src="../src/assets/Images/sanketh.JPG" alt="Sanketh Nayak"></img>
+        <img src={image} alt="Sanketh Nayak"></img>
       </div>
       <div id="Project" style={{ position: "absolute", bottom: "70px" }}></div>
     </header>
