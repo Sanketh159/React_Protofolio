@@ -1,8 +1,8 @@
 import React from "react";
 import "../public/projects.css";
-import foodclone from "../assets/Images/foodman.png";
-import calculator from "../assets/Images/calculator.png";
-import spotify from "../assets/Images/spotify.png";
+import foodclone from "../assets/images/foodman.png";
+import calculator from "../assets/images/calculator.png";
+import spotify from "../assets/images/spotify.png";
 
 
 function ProjectSection() {
