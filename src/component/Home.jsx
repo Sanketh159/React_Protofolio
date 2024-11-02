@@ -1,6 +1,6 @@
 import React from 'react';
 import '../public/home.css'; 
-import image from "../src/assets/Images/sanketh.jpg"
+import image from "../src/assets/images/sanketh.jpg"
 
 function Header() {
   return (
