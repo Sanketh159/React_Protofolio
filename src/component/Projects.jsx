@@ -4,6 +4,7 @@ import foodclone from "../assets/Images/foodman.png";
 import calculator from "../assets/Images/calculator.png";
 import spotify from "../assets/Images/spotify.png";
 
+
 function ProjectSection() {
   const projects = [
     {
