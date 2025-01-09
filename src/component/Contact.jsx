@@ -4,7 +4,7 @@ import '../public/Contact.css'
 function Contact() {
   return (
     <>
-      {/* <footer>
+      <footer>
         <section id="contact">
             <h2 id="details">Contanct Details</h2>
             <div class="contact">
@@ -13,7 +13,7 @@ function Contact() {
                     href="mailto:sankethsnayak159@gmail.com" style="color:#fff;">&nbsp;&nbsp;sankethsnayak159@gmail.com</a></p>
             </div>
         </section>
-    </footer> */}
+    </footer>
     </>
   )
 };
